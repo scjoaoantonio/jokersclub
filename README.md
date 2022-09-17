@@ -10,4 +10,4 @@
 - CSS
 - Git e Github
 
-[🔗 Clique aqui para acessar]()
+[🔗 Clique aqui para acessar](https://scjoaoantonio.github.io/jokersclub)
